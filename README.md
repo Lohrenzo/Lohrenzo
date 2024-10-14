@@ -1,5 +1,5 @@
 ## Hi there 👋
-Just a guy in this world. <br>Fun fact: Python was created as a hobby project 😁. 
+Just a guy in this world. <br> 
 
 
 # 💻 Tech Stack:
@@ -8,4 +8,4 @@ Just a guy in this world. <br>Fun fact: Python was created as a hobby project �
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lohrenzo&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
