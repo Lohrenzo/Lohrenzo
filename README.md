@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋🏽
 Just a guy in this world. 🌍 <br> 
 
 
